@@ -1,0 +1,8 @@
+# Mobile App Requirements for Kivy Android App
+kivy==2.2.0
+kivymd==1.1.1
+requests==2.31.0
+
+# For Android build
+buildozer==1.5.0
+cython==3.0.6

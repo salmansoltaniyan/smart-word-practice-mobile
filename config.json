@@ -1,0 +1,6 @@
+{
+    "google_sheet_url": "https://docs.google.com/spreadsheets/d/12p3nPxIYYov06dj2lqAgVt_gz3azHHCmLe09qJwCbT4/export?format=csv",
+    "default_word_count": 5,
+    "app_title": "Smart Word Practice",
+    "theme_color": [0.2, 0.6, 1.0, 1.0]
+}
